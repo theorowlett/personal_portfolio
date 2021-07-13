@@ -8,6 +8,13 @@ body {
 
 #projects {
     text-align: center;
-    color:white
-    
+    color:white   
+}
+
+.card-content {
+    height: 10em;
+}
+
+.card-action {
+    height: 7em;
 }
